@@ -1,0 +1,2 @@
+<%@ Control Language="C#" AutoEventWireup="true" Inherits="MessageControl" Codebehind="MessageControl.ascx.cs" %>
+<div id="messageContainerDIV" class="MessageContainer" runat="server"><asp:Image ID="IconImage" runat="server" /><asp:Label ID="MessageLabel" runat="server" /></div>
