@@ -1,0 +1,4 @@
+System.InvalidCastException: Unable to cast object of type 'System.DBNull' to type 'System.String'.
+   at Laghaee.DataAccess.ClsUserDataAccessLogic.FillUser(SqlDataReader objReader) in D:\Lagha\LaghaeeFinal\DataAccess\ClsUserDataAccessLogic.cs:line 255
+   at Laghaee.DataAccess.ClsUserDataAccessLogic.GetUserByUserID(Int32 iUserID) in D:\Lagha\LaghaeeFinal\DataAccess\ClsUserDataAccessLogic.cs:line 232
+   at Laghaee.WebSite.User.grdUser_SelectedIndexChanged(Object sender, EventArgs e) in D:\Lagha\LaghaeeFinal\Web\User.aspx.cs:line 209
