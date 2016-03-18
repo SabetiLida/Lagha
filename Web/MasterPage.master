@@ -1,0 +1,95 @@
+<%@ Master Language="C#" AutoEventWireup="true" Inherits="MasterPage" Codebehind="MasterPage.master.cs" %>
+<%@ Register Src="Controls/MessageControl.ascx" TagName="MessageControl" TagPrefix="Navid" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">        
+ <link rel="stylesheet" type="text/css" href="./Styles/niftyCorners.css"/>
+    <link rel="stylesheet" type="text/css" href="./Styles/niftyPrint.css" media="print"/>
+    <link href="Styles/StyleSheet.css" rel="stylesheet" type="text/css" />
+    <link href="Styles/Message.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="Resources/nifty.js"></script>
+    <script type="text/javascript" src="Resources/MoveLayer.js"></script>
+    <script type="text/javascript">
+    window.onload=function(){
+    if(!NiftyCheck())
+        return;
+    Rounded("div#dvCommands","all","#FFF","#404040","smooth");
+    Rounded("div#dvMain","all","#FFF","#404040","smooth");
+    Rounded("div#Error","all","#F4F4F4","#404040","smooth");
+    Rounded("div#divWelcomeMessage","all","#F4F4F4","#404040","smooth");
+    }
+
+    </script>
+    
+    <title>Untitled Page</title>
+    <meta http-equiv="page-enter" content="blendTrans(duration=0.5)" />
+    <meta http-equiv="page-exit" content="blendTrans(duration=0.5)" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="wrapper" style="height: 100%">
+            <div class="main_left">
+                <div class="header">
+                    <div id="headerRight" >
+                   <div class="link_menu" style="height: 143px" >
+                    <table style= "height: 143px; vertical-align:text-bottom ;border-collapse:separate; text-align: left;" >
+                    <tr>    
+                     <td style="height: 2px;width: 79px;" >                                       
+                       <a href="patent.aspx" accesskey="3">Patent</a>                        
+                     </td> 
+                      <td style="width: 79px">                                        
+                       <a href="design.aspx" accesskey="2">Design</a>                       
+                     </td>
+                     <td style="height: 2px;width: 79px;" >                                       
+                        <a href="trademark.aspx" accesskey="1">TradeMark</a>                                 
+                     </td>
+                    </tr>
+                    <tr>    
+                     <td style="height: 2px;width: 79px;" >
+                       <a href="Logins.aspx" accesskey="4">Login</a>
+                     </td>
+                      <td style="width: 79px" >                                        
+                         <a href="Agents.aspx" accesskey="4">Agents</a>                     
+                     </td>
+                     <td style="height: 2px;width: 79px;">
+                       <a href="Applicants.aspx" accesskey="4">Applicants</a>
+                     </td>
+                      <td style="height: 2px;width: 79px;">
+                       <a href="User.aspx" accesskey="1">Users</a>
+                     </td>
+                    </tr>
+                     <%-- <tr>    
+                     <td style="height: 27px; width: 74px;">
+                      <a href="Letters.aspx" accesskey="5">&nbsp;Letters</a> 
+                     </td>
+                     
+                    </tr>--%>
+                    </table>
+                                                
+                    </div>
+                    </div>
+                    <div id="headerLeft"  onclick="return headerLeft_onclick()" style="width: 420px"  >
+                        <h1 >
+                            <a href="default.aspx">&nbsp&nbsp&nbsp&nbsp&nbsp Law Offices Dr. Ali Laghaee<br />
+                                &nbsp&nbsp&nbsp&nbsp&nbsp And Associates Inc. </a>
+                        </h1>
+                    </div>
+                    
+                </div>
+                <%--style="width: 95%; position: static; height: 95%; overflow: auto;"--%>
+                <div class="content">
+                    <asp:ContentPlaceHolder ID="PageHeaderContentPlaceHolder" runat="server" >
+                    </asp:ContentPlaceHolder>
+                    <Navid:MessageControl ID="MessageControl" runat="server" />
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                    
+                </div>
+            </div>
+            <div class="footer">
+               &copy;<a href="default.aspx" >Laghaee</a> 2008.
+            </div>
+        </div>
+    </form>
+</body>
+</html>
