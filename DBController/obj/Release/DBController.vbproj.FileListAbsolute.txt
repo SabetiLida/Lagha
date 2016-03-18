@@ -1,0 +1,16 @@
+C:\Users\lida\Desktop\New folder (2)\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\DBController\bin\Release\DBController.dll
+C:\Users\lida\Desktop\New folder (2)\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\DBController\bin\Release\DBController.pdb
+C:\Users\lida\Desktop\New folder (2)\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\DBController\bin\Release\DBController.xml
+C:\Users\lida\Desktop\New folder (2)\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\DBController\obj\Release\DBController.Resources.resources
+C:\Users\lida\Desktop\New folder (2)\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\DBController\obj\Release\DBController.vbproj.GenerateResource.Cache
+C:\Users\lida\Desktop\New folder (2)\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\DBController\obj\Release\DBController.dll
+C:\Users\lida\Desktop\New folder (2)\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\DBController\obj\Release\DBController.xml
+C:\Users\lida\Desktop\New folder (2)\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\DBController\obj\Release\DBController.pdb
+D:\Projects\LaghaeeFinal-WebBasedApplication_13940613_afterFatherdeath\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\DBController\bin\Release\DBController.dll
+D:\Projects\LaghaeeFinal-WebBasedApplication_13940613_afterFatherdeath\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\DBController\bin\Release\DBController.pdb
+D:\Projects\LaghaeeFinal-WebBasedApplication_13940613_afterFatherdeath\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\DBController\bin\Release\DBController.xml
+D:\Projects\LaghaeeFinal-WebBasedApplication_13940613_afterFatherdeath\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\DBController\obj\Release\DBController.Resources.resources
+D:\Projects\LaghaeeFinal-WebBasedApplication_13940613_afterFatherdeath\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\DBController\obj\Release\DBController.vbproj.GenerateResource.Cache
+D:\Projects\LaghaeeFinal-WebBasedApplication_13940613_afterFatherdeath\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\DBController\obj\Release\DBController.dll
+D:\Projects\LaghaeeFinal-WebBasedApplication_13940613_afterFatherdeath\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\DBController\obj\Release\DBController.xml
+D:\Projects\LaghaeeFinal-WebBasedApplication_13940613_afterFatherdeath\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\DBController\obj\Release\DBController.pdb
