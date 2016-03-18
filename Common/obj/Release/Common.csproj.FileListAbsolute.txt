@@ -1,0 +1,8 @@
+C:\Users\lida\Desktop\New folder (2)\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\Common\bin\Release\Laghaee.Common.dll
+C:\Users\lida\Desktop\New folder (2)\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\Common\bin\Release\Laghaee.Common.pdb
+C:\Users\lida\Desktop\New folder (2)\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\Common\obj\Release\Laghaee.Common.dll
+C:\Users\lida\Desktop\New folder (2)\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\Common\obj\Release\Laghaee.Common.pdb
+D:\Projects\LaghaeeFinal-WebBasedApplication_13940613_afterFatherdeath\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\Common\bin\Release\Laghaee.Common.dll
+D:\Projects\LaghaeeFinal-WebBasedApplication_13940613_afterFatherdeath\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\Common\bin\Release\Laghaee.Common.pdb
+D:\Projects\LaghaeeFinal-WebBasedApplication_13940613_afterFatherdeath\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\Common\obj\Release\Laghaee.Common.dll
+D:\Projects\LaghaeeFinal-WebBasedApplication_13940613_afterFatherdeath\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\Common\obj\Release\Laghaee.Common.pdb

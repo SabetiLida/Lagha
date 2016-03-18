@@ -1,0 +1,24 @@
+E:\Laghaee Sources\Sources\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\Common\bin\Debug\Laghaee.Common.dll
+E:\Laghaee Sources\Sources\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\Common\bin\Debug\Laghaee.Common.pdb
+E:\Laghaee Sources\Sources\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\Common\obj\Debug\ResolveAssemblyReference.cache
+E:\Laghaee Sources\Sources\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\Common\obj\Debug\Laghaee.Common.dll
+E:\Laghaee Sources\Sources\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\Common\obj\Debug\Laghaee.Common.pdb
+C:\Users\lida\Desktop\New folder (2)\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\Common\bin\Debug\Laghaee.Common.dll
+C:\Users\lida\Desktop\New folder (2)\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\Common\bin\Debug\Laghaee.Common.pdb
+C:\Users\lida\Desktop\New folder (2)\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\Common\obj\Debug\Laghaee.Common.dll
+C:\Users\lida\Desktop\New folder (2)\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\Common\obj\Debug\Laghaee.Common.pdb
+C:\Users\lida\Desktop\New folder (2)\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Projects\LaghaeeFinal-WebBasedApplication_13931211_fatherdeath\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\Common\bin\Debug\Laghaee.Common.dll
+D:\Projects\LaghaeeFinal-WebBasedApplication_13931211_fatherdeath\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\Common\bin\Debug\Laghaee.Common.pdb
+D:\Projects\LaghaeeFinal-WebBasedApplication_13931211_fatherdeath\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\Common\obj\Debug\Laghaee.Common.dll
+D:\Projects\LaghaeeFinal-WebBasedApplication_13931211_fatherdeath\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\Common\obj\Debug\Laghaee.Common.pdb
+D:\Projects\LaghaeeFinal-WebBasedApplication_13940613_afterFatherdeath\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\Common\bin\Debug\Laghaee.Common.dll
+D:\Projects\LaghaeeFinal-WebBasedApplication_13940613_afterFatherdeath\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\Common\bin\Debug\Laghaee.Common.pdb
+D:\Projects\LaghaeeFinal-WebBasedApplication_13940613_afterFatherdeath\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\Common\obj\Debug\Laghaee.Common.dll
+D:\Projects\LaghaeeFinal-WebBasedApplication_13940613_afterFatherdeath\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\Common\obj\Debug\Laghaee.Common.pdb
+C:\Users\Lida\Documents\GitHub\Lagha\LaghaeeFinal\Common\bin\Debug\Laghaee.Common.dll
+C:\Users\Lida\Documents\GitHub\Lagha\LaghaeeFinal\Common\bin\Debug\Laghaee.Common.pdb
+C:\Users\Lida\Documents\GitHub\Lagha\LaghaeeFinal\Common\obj\Debug\Laghaee.Common.dll
+C:\Users\Lida\Documents\GitHub\Lagha\LaghaeeFinal\Common\obj\Debug\Laghaee.Common.pdb
+C:\Users\Lida\Documents\GitHub\Lagha\LaghaeeFinal\Common\bin\Debug\FarsiLibrary.Utils.dll
+C:\Users\Lida\Documents\GitHub\Lagha\LaghaeeFinal\Common\bin\Debug\FarsiLibrary.Resources.dll

@@ -1,0 +1,10 @@
+bin\Debug\Laghaee.Common.dll
+bin\Debug\Laghaee.Common.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Laghaee.Common.dll
+obj\Debug\Laghaee.Common.pdb
+bin\Release\Laghaee.Common.dll
+bin\Release\Laghaee.Common.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Laghaee.Common.dll
+obj\Release\Laghaee.Common.pdb
