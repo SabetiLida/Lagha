@@ -1,0 +1,8 @@
+﻿
+#cols {position:relative; margin:15px 0; padding-left:15px; }
+#aside {float:right; width:215px; margin-left:0;min-height:500px; }
+#content {margin-right:232px; overflow:visible;min-height:500px;}
+#tray .ico-col2 {display:none;}
+
+html>body #aside {margin-left:20px;}
+html>body #content {margin-right:0; overflow:hidden;}

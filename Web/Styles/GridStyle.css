@@ -1,0 +1,39 @@
+﻿ .mGrid {   
+     width: 100%;   
+     background-color: #fff;   
+     margin: 5px 0px 10px 0px;   
+    /* border: solid 1px #CCC !important;   */
+     border-collapse:collapse;   
+ }  
+ .mGrid td {   
+     padding: 2px;   
+     border: solid 1px #CCC ;   
+     /*color: #717171;   */
+ }  
+ .mGrid th {   
+     padding: 4px 2px;   
+     color: #fff;   
+     background: #424242 url(../Images/UI/gridHeaderBg.jpg) repeat-x top;   
+     /*border-left: solid 1px #525252;   */
+     /*font-size: 0.9em;*/
+     height:35px;   
+ }  
+ .mGrid .alt { background-color: #f5f5f5; }  
+ .mGrid .selected{background-color:#fff2c0;}
+ .mGrid .pgr { background: #424242 url(grd_pgr.png) repeat-x top; }  
+ .mGrid tr.pgr table  { margin: 15px 0;width:25px !important; }  
+ .mGrid tr.pgr td table td   
+ {
+ 	border-collapse:separate !important;
+ 	margin:1px !important;
+ 	border:solid 3px #424242;
+ 	border-left:solid 6px #424242;
+ 	
+ 	background-color:#b0b0b0;
+ 	padding: 5px !important;   
+ 	font-weight: bold ;   
+    color: #fff; 
+    line-height: 12px;   
+  }     
+ .mGrid .pgr a { color: #666; text-decoration: none; font-weight: normal;}  
+ .mGrid .pgr a:hover { color: #000; text-decoration: none; }

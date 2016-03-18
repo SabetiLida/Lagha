@@ -1,0 +1,37 @@
+﻿.MessageContainer
+{
+	background-color:#FFF;
+	font-family:bold;
+	color:#be1c1c;
+	border:solid 1px #999;
+	font-family:Tahoma;
+	font-size:13px;
+	font-weight:bold;
+	line-height:25px;
+	padding:3px;
+	line-height:32px;
+	vertical-align:middle;
+	margin-bottom:8px;
+	}
+.MessageContainer span
+{
+	line-height:32px;
+	display:inline-block;
+	margin-left:8px;
+	}
+.MessageContainer img
+{
+	vertical-align:middle;
+	}
+.errorMessage
+{
+	color:#be1c1c;
+}
+.warningMessage
+{
+	color: #be1c1c;
+}
+.infoMessage
+{
+	color:#006cb1;
+}
