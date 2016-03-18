@@ -1,0 +1,34 @@
+C:\Users\lida\Desktop\New folder (2)\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\DataAccess\bin\Release\Laghaee.DataAccess.dll
+C:\Users\lida\Desktop\New folder (2)\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\DataAccess\bin\Release\Laghaee.DataAccess.pdb
+C:\Users\lida\Desktop\New folder (2)\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\DataAccess\bin\Release\DBController.dll
+C:\Users\lida\Desktop\New folder (2)\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\DataAccess\bin\Release\FarsiLibrary.Utils.dll
+C:\Users\lida\Desktop\New folder (2)\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\DataAccess\bin\Release\Laghaee.Common.dll
+C:\Users\lida\Desktop\New folder (2)\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\DataAccess\bin\Release\Laghaee.Entity.dll
+C:\Users\lida\Desktop\New folder (2)\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\DataAccess\bin\Release\Laghaee.WebSite.dll
+C:\Users\lida\Desktop\New folder (2)\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\DataAccess\bin\Release\FarsiLibrary.Resources.dll
+C:\Users\lida\Desktop\New folder (2)\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\DataAccess\bin\Release\FredCK.FCKeditorV2.dll
+C:\Users\lida\Desktop\New folder (2)\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\DataAccess\bin\Release\Laghaee.Common.pdb
+C:\Users\lida\Desktop\New folder (2)\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\DataAccess\bin\Release\DBController.pdb
+C:\Users\lida\Desktop\New folder (2)\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\DataAccess\bin\Release\DBController.xml
+C:\Users\lida\Desktop\New folder (2)\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\DataAccess\bin\Release\Laghaee.Entity.pdb
+C:\Users\lida\Desktop\New folder (2)\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\DataAccess\bin\Release\Laghaee.WebSite.pdb
+C:\Users\lida\Desktop\New folder (2)\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\DataAccess\obj\Release\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\lida\Desktop\New folder (2)\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\DataAccess\obj\Release\Laghaee.DataAccess.dll
+C:\Users\lida\Desktop\New folder (2)\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\DataAccess\obj\Release\Laghaee.DataAccess.pdb
+D:\Projects\LaghaeeFinal-WebBasedApplication_13940613_afterFatherdeath\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\DataAccess\bin\Release\Laghaee.DataAccess.dll
+D:\Projects\LaghaeeFinal-WebBasedApplication_13940613_afterFatherdeath\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\DataAccess\bin\Release\Laghaee.DataAccess.pdb
+D:\Projects\LaghaeeFinal-WebBasedApplication_13940613_afterFatherdeath\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\DataAccess\bin\Release\DBController.dll
+D:\Projects\LaghaeeFinal-WebBasedApplication_13940613_afterFatherdeath\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\DataAccess\bin\Release\FarsiLibrary.Utils.dll
+D:\Projects\LaghaeeFinal-WebBasedApplication_13940613_afterFatherdeath\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\DataAccess\bin\Release\Laghaee.Common.dll
+D:\Projects\LaghaeeFinal-WebBasedApplication_13940613_afterFatherdeath\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\DataAccess\bin\Release\Laghaee.Entity.dll
+D:\Projects\LaghaeeFinal-WebBasedApplication_13940613_afterFatherdeath\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\DataAccess\bin\Release\Laghaee.WebSite.dll
+D:\Projects\LaghaeeFinal-WebBasedApplication_13940613_afterFatherdeath\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\DataAccess\bin\Release\FarsiLibrary.Resources.dll
+D:\Projects\LaghaeeFinal-WebBasedApplication_13940613_afterFatherdeath\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\DataAccess\bin\Release\FredCK.FCKeditorV2.dll
+D:\Projects\LaghaeeFinal-WebBasedApplication_13940613_afterFatherdeath\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\DataAccess\bin\Release\Laghaee.Common.pdb
+D:\Projects\LaghaeeFinal-WebBasedApplication_13940613_afterFatherdeath\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\DataAccess\bin\Release\DBController.pdb
+D:\Projects\LaghaeeFinal-WebBasedApplication_13940613_afterFatherdeath\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\DataAccess\bin\Release\DBController.xml
+D:\Projects\LaghaeeFinal-WebBasedApplication_13940613_afterFatherdeath\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\DataAccess\bin\Release\Laghaee.Entity.pdb
+D:\Projects\LaghaeeFinal-WebBasedApplication_13940613_afterFatherdeath\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\DataAccess\bin\Release\Laghaee.WebSite.pdb
+D:\Projects\LaghaeeFinal-WebBasedApplication_13940613_afterFatherdeath\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\DataAccess\obj\Release\DataAccess.csprojResolveAssemblyReference.cache
+D:\Projects\LaghaeeFinal-WebBasedApplication_13940613_afterFatherdeath\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\DataAccess\obj\Release\Laghaee.DataAccess.dll
+D:\Projects\LaghaeeFinal-WebBasedApplication_13940613_afterFatherdeath\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\DataAccess\obj\Release\Laghaee.DataAccess.pdb
