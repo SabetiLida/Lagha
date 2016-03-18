@@ -1,0 +1,8 @@
+C:\Users\lida\Desktop\New folder (2)\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\Entity\bin\Release\Laghaee.Entity.dll
+C:\Users\lida\Desktop\New folder (2)\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\Entity\bin\Release\Laghaee.Entity.pdb
+C:\Users\lida\Desktop\New folder (2)\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\Entity\obj\Release\Laghaee.Entity.dll
+C:\Users\lida\Desktop\New folder (2)\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\Entity\obj\Release\Laghaee.Entity.pdb
+D:\Projects\LaghaeeFinal-WebBasedApplication_13940613_afterFatherdeath\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\Entity\bin\Release\Laghaee.Entity.dll
+D:\Projects\LaghaeeFinal-WebBasedApplication_13940613_afterFatherdeath\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\Entity\bin\Release\Laghaee.Entity.pdb
+D:\Projects\LaghaeeFinal-WebBasedApplication_13940613_afterFatherdeath\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\Entity\obj\Release\Laghaee.Entity.dll
+D:\Projects\LaghaeeFinal-WebBasedApplication_13940613_afterFatherdeath\LaghaeeFinal-WebBasedApplication\Lagha\LaghaeeFinal\Entity\obj\Release\Laghaee.Entity.pdb
