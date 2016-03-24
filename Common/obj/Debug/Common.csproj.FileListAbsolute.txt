@@ -22,3 +22,10 @@ C:\Users\Lida\Documents\GitHub\Lagha\LaghaeeFinal\Common\obj\Debug\Laghaee.Commo
 C:\Users\Lida\Documents\GitHub\Lagha\LaghaeeFinal\Common\obj\Debug\Laghaee.Common.pdb
 C:\Users\Lida\Documents\GitHub\Lagha\LaghaeeFinal\Common\bin\Debug\FarsiLibrary.Utils.dll
 C:\Users\Lida\Documents\GitHub\Lagha\LaghaeeFinal\Common\bin\Debug\FarsiLibrary.Resources.dll
+C:\Users\Lida\Documents\Lagha\Common\bin\Debug\Laghaee.Common.dll
+C:\Users\Lida\Documents\Lagha\Common\bin\Debug\Laghaee.Common.pdb
+C:\Users\Lida\Documents\Lagha\Common\bin\Debug\FarsiLibrary.Utils.dll
+C:\Users\Lida\Documents\Lagha\Common\bin\Debug\FarsiLibrary.Resources.dll
+C:\Users\Lida\Documents\Lagha\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\Lida\Documents\Lagha\Common\obj\Debug\Laghaee.Common.dll
+C:\Users\Lida\Documents\Lagha\Common\obj\Debug\Laghaee.Common.pdb

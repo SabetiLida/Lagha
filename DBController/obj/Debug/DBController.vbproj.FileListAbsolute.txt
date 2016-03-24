@@ -40,3 +40,11 @@ C:\Users\Lida\Documents\GitHub\Lagha\LaghaeeFinal\DBController\obj\Debug\DBContr
 C:\Users\Lida\Documents\GitHub\Lagha\LaghaeeFinal\DBController\obj\Debug\DBController.dll
 C:\Users\Lida\Documents\GitHub\Lagha\LaghaeeFinal\DBController\obj\Debug\DBController.xml
 C:\Users\Lida\Documents\GitHub\Lagha\LaghaeeFinal\DBController\obj\Debug\DBController.pdb
+C:\Users\Lida\Documents\Lagha\DBController\bin\Debug\DBController.dll
+C:\Users\Lida\Documents\Lagha\DBController\bin\Debug\DBController.pdb
+C:\Users\Lida\Documents\Lagha\DBController\bin\Debug\DBController.xml
+C:\Users\Lida\Documents\Lagha\DBController\obj\Debug\DBController.Resources.resources
+C:\Users\Lida\Documents\Lagha\DBController\obj\Debug\DBController.vbproj.GenerateResource.Cache
+C:\Users\Lida\Documents\Lagha\DBController\obj\Debug\DBController.dll
+C:\Users\Lida\Documents\Lagha\DBController\obj\Debug\DBController.xml
+C:\Users\Lida\Documents\Lagha\DBController\obj\Debug\DBController.pdb

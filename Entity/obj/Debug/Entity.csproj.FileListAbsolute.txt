@@ -20,3 +20,8 @@ C:\Users\Lida\Documents\GitHub\Lagha\LaghaeeFinal\Entity\bin\Debug\Laghaee.Entit
 C:\Users\Lida\Documents\GitHub\Lagha\LaghaeeFinal\Entity\bin\Debug\Laghaee.Entity.pdb
 C:\Users\Lida\Documents\GitHub\Lagha\LaghaeeFinal\Entity\obj\Debug\Laghaee.Entity.dll
 C:\Users\Lida\Documents\GitHub\Lagha\LaghaeeFinal\Entity\obj\Debug\Laghaee.Entity.pdb
+C:\Users\Lida\Documents\Lagha\Entity\bin\Debug\Laghaee.Entity.dll
+C:\Users\Lida\Documents\Lagha\Entity\bin\Debug\Laghaee.Entity.pdb
+C:\Users\Lida\Documents\Lagha\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\Lida\Documents\Lagha\Entity\obj\Debug\Laghaee.Entity.dll
+C:\Users\Lida\Documents\Lagha\Entity\obj\Debug\Laghaee.Entity.pdb

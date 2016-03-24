@@ -111,3 +111,17 @@ C:\Users\Lida\Documents\GitHub\Lagha\LaghaeeFinal\DataAccess\bin\Debug\DBControl
 C:\Users\Lida\Documents\GitHub\Lagha\LaghaeeFinal\DataAccess\bin\Debug\DBController.xml
 C:\Users\Lida\Documents\GitHub\Lagha\LaghaeeFinal\DataAccess\bin\Debug\Laghaee.Entity.pdb
 C:\Users\Lida\Documents\GitHub\Lagha\LaghaeeFinal\DataAccess\obj\Debug\Laghaee.DataAccess.pdb
+C:\Users\Lida\Documents\Lagha\DataAccess\bin\Debug\Laghaee.DataAccess.dll
+C:\Users\Lida\Documents\Lagha\DataAccess\bin\Debug\Laghaee.DataAccess.pdb
+C:\Users\Lida\Documents\Lagha\DataAccess\bin\Debug\DBController.dll
+C:\Users\Lida\Documents\Lagha\DataAccess\bin\Debug\FarsiLibrary.Utils.dll
+C:\Users\Lida\Documents\Lagha\DataAccess\bin\Debug\Laghaee.Common.dll
+C:\Users\Lida\Documents\Lagha\DataAccess\bin\Debug\Laghaee.Entity.dll
+C:\Users\Lida\Documents\Lagha\DataAccess\bin\Debug\FarsiLibrary.Resources.dll
+C:\Users\Lida\Documents\Lagha\DataAccess\bin\Debug\Laghaee.Common.pdb
+C:\Users\Lida\Documents\Lagha\DataAccess\bin\Debug\DBController.pdb
+C:\Users\Lida\Documents\Lagha\DataAccess\bin\Debug\DBController.xml
+C:\Users\Lida\Documents\Lagha\DataAccess\bin\Debug\Laghaee.Entity.pdb
+C:\Users\Lida\Documents\Lagha\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Lida\Documents\Lagha\DataAccess\obj\Debug\Laghaee.DataAccess.dll
+C:\Users\Lida\Documents\Lagha\DataAccess\obj\Debug\Laghaee.DataAccess.pdb
